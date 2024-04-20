@@ -1,12 +1,12 @@
-#Hello, I'm Harsha! 👋
+Hello, I'm Harsha! 👋
 
-#🧑‍💻About Me
+🧑‍💻About Me
 I'm a passionate learner transitioning from an electronics engineering background to software development, 
 with a keen interest in the exciting world of web3 and blockchain technologies.
 My journey in programming began with Python and Java, and I've since explored languages like Solidity, 
 C/C++, and technologies like MERN stack, Ethereum, and Hyperledger.
 
-#👷‍♂️Experience & Projects
+👷‍♂️Experience & Projects
 Currently, I'm delving into blockchain development, building decentralized applications and smart contracts on platforms like Ethereum and Hyperledger.
 I've contributed to projects involving MERN stack, working on full-stack web development and exploring the potential of modern web technologies.
 My electronics engineering background has equipped me with problem-solving skills and a strong foundation in understanding complex systems, which I apply to my software development endeavors.
